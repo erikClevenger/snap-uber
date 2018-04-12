@@ -5,7 +5,11 @@ body {
 .primaryInfo {
 	width: 66%;
 	margin: auto;
-	background-color: blanchedalmond;
+	background-color: ivory;
+}
+
+.textContainer {
+	padding: 2% 3% 2% 3%;
 }
 
 h1 {
